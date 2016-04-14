@@ -1,0 +1,15 @@
+{
+  "author": "Yuxiang Yang <yxyang@berkeley.edu>",
+  "name": "gazeboJsCam",
+  "description": "Take pictures for gazebo (I'm only tring)",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
