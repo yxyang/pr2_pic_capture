@@ -10,7 +10,7 @@
       <visual name="visual">
         <origin pose="3 4 1 0 3 1"/>
         <geometry>
-          <box size="0.1 0.1 0.1"/>
+          <box size="0 0 0"/>
         </geometry>
       </visual>
 
